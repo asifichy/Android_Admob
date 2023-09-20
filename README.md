@@ -9,8 +9,6 @@ Two banner ads
 
 
 
-
-
 ## Full Screen Ad
 
 <img src="![Screenshot_20230906-224708_Quizzler](https://github.com/asifichy/Android_Admob/assets/68398397/813370ec-4ed0-40b7-af61-37dc030e7683)" width="200px" height="300px">
